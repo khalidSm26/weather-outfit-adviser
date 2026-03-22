@@ -23,7 +23,7 @@ Open a terminal or command prompt in that folder and run:
 python main.py
 Follow the prompts in the CLI:
 Enter temperature (°C)
-Enter weather type (sunny, rainy, snowy, cloudy, etc.)
-Enter wind speed (km/h)
+Enter weather type (sunny, rainy, snowy, cloudy, windy)
+Enter wind speed (mph)
 
 The program will recommend an outfit based on your input.
